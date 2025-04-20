@@ -82,7 +82,7 @@ a:visited {
     }
      
     #parent {
-        display: block;
+        flex-direction: column;
     }
 }
 
